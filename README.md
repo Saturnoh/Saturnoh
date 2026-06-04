@@ -4,7 +4,7 @@ I'm Adolfo, a 4th year computer engineering student at Georgia Tech, graduating 
 
 Currently working at Accenture as an intern. 
 
-Typically, I work in C and Assembly. Most of my skillsets are in Embedded Systems. That includes protocols, scheduling, circuit design, algorithms, system design, CAD, testing, and more. 
+Typically, I work in C and Assembly. Most of my skillsets are in Embedded Systems and Firmware. That includes protocols, scheduling, circuit design, algorithms, system design, CAD, OS-level code, bit-banging, testing, and more. 
 
 I like to work on projects that challenge multiple skillsets and have many different components, such as software, hardware, and physical constraints.
 
