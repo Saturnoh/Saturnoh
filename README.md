@@ -8,7 +8,7 @@ Typically, I work in C and Assembly. Most of my skillsets are in Embedded System
 
 I like to work on projects that challenge multiple skillsets and have many different components, such as software, hardware, and physical constraints
 
-Last school year I was Vehicle Dynamics and Data Acquisition Team Lead for (Wreck Racing)[https://wreckracing.gatech.edu/]. 
+Last school year I was Vehicle Dynamics and Data Acquisition Team Lead for [Wreck Racing](https://wreckracing.gatech.edu/) 
 
 In my final semester I'm working on my Senior Design project which will be the electrification of a spare Ford Model A! (More updates as work progresses)
 
