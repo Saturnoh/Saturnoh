@@ -2,7 +2,7 @@
 
 I'm Adolfo, a 4th year computer engineering student at Georgia Tech, graduating Fall 2026. 
 
-Currently working at Accenture as an intern. 
+Currently working at Accenture as a Security Consulting Analyst. 
 
 Typically, I work in C and Assembly. Most of my skillsets are in Embedded Systems and Firmware. That includes protocols, scheduling, circuit design, algorithms, system design, CAD, OS-level code, bit-banging, testing, and more. 
 
